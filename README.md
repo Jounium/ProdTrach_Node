@@ -49,3 +49,5 @@ Hardware development and validation.
 ---
 
 **ProdTrack_Node | Real-Time Production Monitoring & Traceability**
+
+For hardware engineering services, technical collaboration, or requests for additional design files, feel free to contact me via [LinkedIn: Youness TAIK](https://www.linkedin.com/in/youness-taik-434166200/) or [Email: younesstaik0@gmail.com](mailto:younesstaik0@gmail.com).
